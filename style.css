@@ -1,0 +1,154 @@
+.container
+{
+    width: 350px;
+    height: 374px;
+    position: absolute;
+    top: 200px;
+    left: 600px;
+    border: 1px;
+    border-radius: 20px;
+    background-color: whitesmoke;
+}
+
+.img-back-top
+{
+    position: absolute;
+    bottom: 300px;
+    right: 848px;
+    width: 60%;
+}
+
+.img-back-bot
+{
+    height: 465px;
+    width: 950px;
+    position: absolute;
+    left: 935px;
+    top: 465px;
+    overflow: hidden;
+}
+
+.card-cover
+{
+    border: 5px;
+    border-radius: 20px 20px 0px 0px;
+}
+
+.avatar
+{
+    width: 96px;
+    height: 95px;
+    border: 5px solid;
+    border-color: aliceblue;
+    border-radius: 50px;
+    position: absolute;
+    right: 130px;
+    top: 90px;
+}
+
+.name
+{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+.name-style
+{
+    font-weight: 700;
+    font-size: 18px;
+    font-family: 'outfit';
+}
+
+.age
+{
+    font-weight: 400;
+    font-size: 18px;
+    color: #848484;
+    padding-left: 7px;
+    font-family: 'outfit';
+}
+
+.destination
+{
+    font-weight: 400;
+    font-size: 14px;
+    color:#6b7082;
+    position: absolute;
+    top: 225px;
+    font-family: 'outfit';   
+}
+
+.devidor
+{
+    border-bottom: 1px solid;
+    border-color: #E8E9EC;
+    padding-top: 25px;
+}
+
+.num-followers
+{
+    font-size: 18px;
+    font-weight: 700;
+    font-family: 'outfit';
+    color: #474747;
+    position: absolute;
+    left: 50px;
+    top: 288px;
+}
+
+.num-likes
+{
+    font-size: 18px;
+    font-weight: 700;
+    font-family: 'outfit';
+    color: #474747;
+    display: flex;
+    justify-content: center;
+    padding-top: 8px;
+}
+
+.num-photos
+{
+    font-weight: 700;
+    font-size: 18px;
+    font-family: 'outfit';
+    color: #474747;
+    position: absolute;
+    left: 270px;
+    bottom: 28px;
+}
+
+.txt-followers
+{
+    
+    font-weight: 400;
+    font-size: 12px;
+    font-family: 'outfit';
+    color: #6B7082;
+    position: absolute;
+    left: 42px;
+    bottom: 12px;
+}
+
+.txt-likes
+{
+    font-weight: 400;
+    font-size: 12px;
+    font-family: 'outfit';
+    color: #6B7082;
+    position: absolute;
+    left: 158.5px;
+    bottom: 12px;
+}
+
+.txt-photos
+{
+    font-weight: 400;
+    font-size: 12px;
+    font-family: 'outfit';
+    color: #6B7082;
+    position: absolute;
+    left: 269px;
+    bottom: 12px;
+}
